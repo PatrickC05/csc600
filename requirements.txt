@@ -19,7 +19,7 @@ geopandas==0.12.2
 gerrychain==0.2.15
 importlib-resources==5.12.0
 ipykernel==6.19.2
-ipython==8.8.0
+ipython==8.10.0
 jedi==0.18.1
 jupyter_client==7.4.8
 jupyter_core==5.1.1
